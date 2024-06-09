@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a SDET with a passion for coding.
 ## About Me
 
 - 🌱 I’m currently learning Web Developement.
-- 💼 I’m working in Cognizant.
+- 💼 I’m working at Cognizant.
 - 📫 How to reach me: mt029322@gmail.com.
 
 
