@@ -1,7 +1,7 @@
 
 # Hi there, I'm Mayank Singh! 👋
 
-Welcome to my GitHub profile! I'm a SDET with a passion for coding.
+Welcome to my GitHub profile! I'm a frontend dev with a passion for coding.
 
 ## About Me
 
