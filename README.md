@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a frontend dev with a passion for coding.
 
 ## About Me
 
-- 🌱 I’m currently learning Web Developement.
-- 💼 I’m working at Cognizant.
+- 🌱 I’m currently learning Mobile Development.
+- 💼 I’m working at Affixious.
 - 📫 How to reach me: mt029322@gmail.com.
 
 
